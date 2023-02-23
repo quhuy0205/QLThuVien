@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLThuVien", "QLThuVien\QLThuVien.csproj", "{C9817B8A-19E9-4D01-9AB9-B68EE9A5E44E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9817B8A-19E9-4D01-9AB9-B68EE9A5E44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9817B8A-19E9-4D01-9AB9-B68EE9A5E44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9817B8A-19E9-4D01-9AB9-B68EE9A5E44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9817B8A-19E9-4D01-9AB9-B68EE9A5E44E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF3CE9D-F019-414C-95BD-517E1AA6E196}
+	EndGlobalSection
+EndGlobal
